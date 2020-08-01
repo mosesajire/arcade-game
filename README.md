@@ -1,12 +1,14 @@
 ## Documentation for the Classic Arcade Game Project
 
-Hello there! Welcome to the repository of my Classic Arcade Game Clone Project. This is a simple game that you will surely find interesting while playing.
+Hello there! Welcome to the repository of my Classic Arcade Game Clone Project. This is a cool game that you will surely find interesting while playing.
 
 # HOW TO GET STARTED
-- To play the game, you need to clone or download the repository to your computer.
-- Extract the downloaded file.
-- Open the index.html file with a browser.
-- Get ready to play.
+- To play the game online, visit https://mosesaajire.github.io/arcade-game
+- To play the game offline, please follow the steps below:
+  * Clone or download the repository to your computer.
+  * Extract the downloaded file.
+  * Open the index.html file with a browser.
+  * Get ready to play.
 
 
 # INSTRUCTIONS
